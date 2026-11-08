@@ -15,7 +15,7 @@ metrics, and served through a Streamlit app.
 ## c. GitHub repository link  [1 mark]
 https://github.com/2026aj05556/ml-classification-streamlit
 
-Live app: Pending deployment
+Live app: https://ml-classification-app-gwjnj37oqzbsqnprukpvbn.streamlit.app/
 
 ## d. Models used  [5 marks]
 Metrics on the 20% hold-out split. Precision, Recall and F1 are macro-averaged; AUC is one-vs-rest macro.
